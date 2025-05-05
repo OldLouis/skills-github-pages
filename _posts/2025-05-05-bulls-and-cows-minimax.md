@@ -42,7 +42,7 @@ My solver implements the **Minimax strategy** from game theory, adapted for this
 - Select the guess with the smallest maximum group size
 
 ## Example Scenario
-
+## Step 1: initial guess
 - **Game Rules**: Guess a 4-digit number with no repeating digits
 - **Initial possible answers**: 1023-9876 (4,536 possibilities)
 - **First guess**: "1234"
